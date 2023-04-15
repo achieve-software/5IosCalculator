@@ -12,7 +12,7 @@ IOS Calculator (folder)
 |----images
 ```
 ## Project-gif
-![resim](https://user-images.githubusercontent.com/118947355/232168698-d91402ff-b178-4555-b957-5663eb9233d9.png)
+https://github.com/achieve-software/gif/blob/main/cal.gif
 ## Project-link
 https://ios-calculator-vanila-js.netlify.app/
 ### At the end of the project, following topics are to be covered;
