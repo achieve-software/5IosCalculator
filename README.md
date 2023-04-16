@@ -4,7 +4,6 @@ Project aims to create IOS Calculator.
 ## Project Skeleton
 ```
 IOS Calculator (folder)
-|
 |----readme.md
 |----index.html
 |----style.css
