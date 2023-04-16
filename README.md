@@ -14,7 +14,7 @@ IOS Calculator (folder)
 ## Project-gif
 https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif
 ## Project-link
-https://ios-calculator-vanila-js.netlify.app/
+https://leafy-heliotrope-83764c.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
